@@ -1,8 +1,9 @@
 Rainbow
 
 
-Violet
 Indigo
 Blue
+Yellow
 Green
+Orange
 Red
